@@ -1,5 +1,5 @@
 
-# Zalith Launcher 2+ (PLUS)
+# Zalith Launcher 2 Pro
 
 [**「English」**](./README.md) | [中文（简体）](./README_ZH_CN.md) | [中文（台灣）](./README_ZH_TW.md) | [Türkçe](./README_TR.md)
 
@@ -51,7 +51,7 @@ This fork uses translations of Zalith Launcher 2. To contribute translations or 
 ### Build Steps
 
 ```bash
-git clone https://github.com/Star1xr/ZalithLauncher2Plus.git
+git clone https://github.com/Sidmax856/ZalithLauncher2Pro.git
 # Open the project in Android Studio and build
 ```
 
@@ -95,9 +95,9 @@ This is a community fork. Before contributing:
 ## 📞 Contact & Links
 
 - **Original Project:** https://github.com/ZalithLauncher/ZalithLauncher2
-- **This Fork:** https://github.com/Star1xr/ZalithLauncher2Plus
+- **This Fork:** https://github.com/Sidmax856/ZalithLauncher2Pro
 
 ---
 
 **Zalith Launcher 2** is the original project created and maintained by the Zalith Launcher team.  
-**Zalith Launcher 2+** is an unofficial community fork created to provide enhanced features and modifications.
+**Zalith Launcher 2 Pro** is an unofficial community fork created to provide enhanced features and modifications.
